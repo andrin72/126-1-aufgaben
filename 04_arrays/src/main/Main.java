@@ -6,7 +6,6 @@ public class Main {
 	
 	public static void main(String[] args) {
 
-		System.out.println("Arrays:");
 		Random random = new Random();
 		int[] randomNumbers = new int[30];
 		int max = 50;
