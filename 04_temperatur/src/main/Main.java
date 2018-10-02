@@ -3,7 +3,9 @@ package main;
 import java.util.Random;
 
 public class Main {
-
+	
+	//Lowest temperatures are still missing
+	
 	private Random random;
 	
 	public static void main(String[] args) {
