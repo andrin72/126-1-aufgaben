@@ -12,7 +12,6 @@ public class Main {
 		int max = 50;
 		int min = 1;
 		int temp;
-		int positionGreaterAmount = 0;
 		
 		for (int i = 0; i < randomNumbers.length; i++) {
 			
