@@ -11,7 +11,7 @@ public class TestKonto {
 		Konto konto2 = new Konto(1, kunde2);
 		
 		konto1.einzahlen(500.75);
-		konto1.verzinsen(365);
+		//konto1.verzinsen(365);
 		System.out.println("Der Kunde " + konto1.getInhaber().getName() + " hat ein Konto.");
 		System.out.println("Der Saldo des Kontos ist " + konto1.getSaldo());
 		
